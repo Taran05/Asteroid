@@ -1,0 +1,28 @@
+#talent{
+  width: 230px;
+  height: 300px;
+  padding-top: 35px;
+  padding-bottom: 25px;
+  margin-left: 35%;
+ }
+ 
+ #found{
+  font-size: 30px;
+  padding-top: 50px;
+  padding-left: 10px;
+ }
+
+ #lead{
+  padding-left: 130px;
+  font-size: 31px;
+  font-weight: 700;
+ }
+
+ #mango{
+  display: table-cell;
+ }
+ 
+ p{
+ padding-left: 10px;
+ }
+ 
